@@ -67,7 +67,7 @@ A interface Gradio será aberta no navegador. Siga os passos abaixo:
 
 ## 🎵 Exemplos de Saída
 ### Entrada:
-- Nome: `Raquel`
+- Nome: `Seu_Nome`
 - Subgênero: `Alternative Rock`
 
 ### Saída:
@@ -108,7 +108,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ## 📧 Contato
-Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: `seu-email@exemplo.com`.
+Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: `anaraquel00@gmail.com`.
 
 ---
 **Divirta-se criando músicas incríveis com o AI Project! 🎶**
